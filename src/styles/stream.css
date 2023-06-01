@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Monomaniac+One&display=swap");
+.stream-page {
+  padding: 100px;
+  margin-top: 30px;
+  font-size: 40px;
+  font-family: "Bruno Ace", cursive;
+  font-family: "Monomaniac One", sans-serif;
+}
+.total-amount-stream {
+  padding-left: 300px;
+  padding-right: 300px;
+}
+.current-flow-rate {
+  padding-left: 300px;
+  padding-right: 300px;
+}
+.input-fields {
+  padding: 10px;
+  border-radius: 10px;
+  width: 220px;
+}

@@ -1,0 +1,33 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #b47272;
+  border: 1px solid black;
+}
+th {
+  background-color: #b0d89b;
+}
+.loan-table {
+  font-size: 25px;
+  margin-left: 300px;
+  margin-right: 400px;
+  border: 1px solid black;
+  background-color: #f0d9d9;
+}
+.loan-history-heading {
+  margin-left: 550px;
+  margin-bottom: 50px;
+  color: aliceblue;
+  background-color: rgb(29, 77, 61);
+  width: fit-content;
+  padding: 5px;
+  border-radius: 10px;
+}
+.loan-page {
+  background-color: rgb(118, 161, 161);
+}

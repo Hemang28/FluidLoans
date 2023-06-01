@@ -1,0 +1,57 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th,
+td {
+  background-color: aliceblue;
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+tr:hover {
+  background-color: yellow;
+}
+.loan-button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.apply-loan-btn {
+  padding: 10px;
+  color: white;
+  background-color: black;
+  border-radius: 5px;
+  font-size: 30px;
+}
+.apply-loan-btn:hover {
+  padding: 12px;
+  color: white;
+  background-color: rgb(61, 92, 194);
+  border-radius: 5px;
+  font-size: 32px;
+}
+.loan-button:hover {
+  background-color: #45a049;
+}
+.nft-table {
+  font-size: 28px;
+  /* margin: 200px; */
+  margin-left: 400px;
+}
+h3 {
+  margin-left: 300px;
+}
+.selected-details {
+  margin-top: 20px;
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+}

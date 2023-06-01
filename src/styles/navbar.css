@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Monomaniac+One&display=swap");
+.nav-bar {
+  display: flex;
+  background-color: #c0dbea;
+  height: 100px;
+}
+.nav-left {
+  /* border: 1px solid black; */
+  display: flex;
+}
+.nav-right {
+  margin-left: 1415px;
+  justify-content: right;
+  align-items: center;
+  display: flex;
+  border: 1px solid black;
+}
+.fluid-loan-logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 100px;
+  margin: 10px;
+  margin-left: 20px;
+}
+.fluid-loan-title {
+  color: #2a2f4f;
+  margin: 10px;
+  font-size: 50px;
+  font-family: "Bruno Ace", cursive;
+  font-family: "Monomaniac One", sans-serif;
+}
+
+.wallet-connect-btn{
+  margin-left: 1000px;
+  display: flex;
+    justify-content: content;
+    align-items: center;
+}

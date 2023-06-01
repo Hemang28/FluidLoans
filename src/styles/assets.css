@@ -1,0 +1,14 @@
+.asset-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  background-color: #3A98B9;
+}
+
+.table-asset-div {
+  width: 80%; /* Adjust the width as needed */
+  background-color: #FFFFFF;
+  padding: 20px;
+}

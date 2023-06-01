@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Monomaniac+One&family=Orbitron&display=swap');
+*{
+
+}
+.left{
+    background-color: aquamarine;
+    /* border: 1px solid black; */
+    display: flex;
+    width:250px;
+    height: 820px;
+}
+
+li{
+    font-family: 'Bruno Ace', cursive;
+font-family: 'Monomaniac One', sans-serif;
+font-family: 'Orbitron', sans-serif; 
+    border-radius: 10px;
+    width: 150px;
+    height: auto;
+    background-color: blueviolet;
+    padding: 10px;
+    font-size: 25px;
+    margin: 10px;
+    list-style: none;
+    color: aliceblue;
+    cursor:pointer;
+}
+
+li:hover{
+    background-color: #D7C0AE;
+    font-size: 28px;
+}
+
+li:focus{
+    background-color: #D7C0AE;
+    color:#3A98B9;
+
+}
+
+.compo-page{
+    display: flex;
+    background-color:#3A98B9;
+}

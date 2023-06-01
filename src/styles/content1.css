@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Monomaniac+One&display=swap");
+.content-1 {
+  display: flex;
+  color: white;
+  background-color: #e8a0bf;
+  padding: 120px;
+}
+.content-1-img {
+  /* width: 100px; */
+  width: 50%;
+}
+.content-1-i {
+  /* width: 890px; */
+  width: 50%;
+}
+.content-1-ii-para {
+  font-family: "Bruno Ace", cursive;
+  font-family: "Monomaniac One", sans-serif;
+  color: #321e1e;
+  font-size: 25px;
+}
+.content-1-ii-title {
+  font-family: "Bruno Ace", cursive;
+  font-family: "Monomaniac One", sans-serif;
+  font-size: 40px;
+  text-decoration: wavy;
+  background-color: antiquewhite;
+  color: #116d6e;
+  width: fit-content;
+  margin-left: 80px;
+  border-radius: 10px;
+  padding: 8px;
+}
